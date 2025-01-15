@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react';
 import './App.css';
 import { VIDEO_LINKS } from './constants';
 import {
-	Play,
 	Pause,
 	Volume2,
 	VolumeX,
